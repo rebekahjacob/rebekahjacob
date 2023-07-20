@@ -1,1 +1,1 @@
-<img src='Rebekah Simple 2_reverse.png' size=5>
+<img src='Rebekah Simple 2_reverse.png'=250x250>
