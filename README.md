@@ -1,6 +1,1 @@
-## Rebekah R. Jacob
-
-
-<img src='Rebekah Simple 2_reverse.png' alt="banner"></img>
-
-<img src='Rebekah Simple 2_reverse.png'>
+<img src='Rebekah Simple 2_reverse.png' size=10>
